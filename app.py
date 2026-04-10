@@ -187,4 +187,4 @@ st.download_button("Download CSV", csv, "clustered_output.csv", "text/csv")
 
 # footer
 st.markdown("---")
-st.caption("Original Template by @Rashedul Alam | Enhanced & Maintained by @Tousif Nuhan")
+st.caption("Developed by Tousif Nuhan | Based on an open-source template by Rashedul Alam")
